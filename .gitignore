@@ -1,0 +1,9 @@
+myDTLS*
+__pycache__
+*result*
+*.jpg
+*.png
+*.ppt*
+*.odp
+*tmp*
+wandb
